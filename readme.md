@@ -37,16 +37,13 @@ How to Reproduce
 
     Clone this repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/danieloliveira01/ESApp_article
 
 Ensure all dependencies are installed:
 
     pip install -r requirements.txt
 
-    Run the notebooks in the following order:
-        convert_embeddings.ipynb
-        ESApp.ipynb
-
+    
 Contribution
 
 This repository is part of an academic project, and external contributions are not being accepted at the moment. However, suggestions and feedback are welcome!
