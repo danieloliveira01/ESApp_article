@@ -1,0 +1,7 @@
+ID,Title,Story
+1,Add CA against object literals in function invocation,"The idea here is that if our metadata captures a type as a function argument, we should be able to create an instance of that type as an object literal as an argument to a function invocation. For example, tiuicreatelabel ltpropertycaheregt."
+2,Update branding for Appcelerator plugin to Appcelerator logo,Update branding for Appcelerator plugin to Appcelerator logo
+3,Create new JSON schema for SDK team,"Create a JSON schema containing properties required for proper CA handover schema to platform team to output new docs/JSON files as part of new SDK releases. It may be that, instead, we can use the VSdoc format. In that case, we will need to indicate to the SDK team additional items to be added to the docs. Pdiv."
+4,Implement support for dynamic routing in the web application,"Add functionality for dynamic route handling within the application, allowing users to access pages based on query parameters or dynamic URL paths."
+5,Add user authentication via OAuth 2.0,"Implement OAuth 2.0 authentication for users to securely log in to the application, enabling role-based access and user-specific data management."
+6,Enhance error logging and reporting system,Improve the error logging system by integrating with an external error tracking service to capture detailed stack traces and user actions leading up to errors.
